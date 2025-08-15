@@ -1,0 +1,5 @@
+{
+  "name": "MovieGenie",
+  "description": "An AI-powered video generation system that uses Veo to create high-quality videos from simple text descriptions. Users can specify the theme, style, tone, and desired length.",
+  "requestFramePermissions": []
+}
